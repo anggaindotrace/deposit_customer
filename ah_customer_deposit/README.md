@@ -1,5 +1,3 @@
-
-Pos Deposit Customer
 ## [Pos Deposit Customer](index.html)
 This module is used to record customer deposits and deposit usage during purchases at your company
 
