@@ -3,6 +3,7 @@
     "version" : "17.0.1.0",
     "category" : "Point of Sale",
     "depends" : ['base','sale','point_of_sale'],
+    
     "author": "AH",
     'summary': 'POS Customer Deposit',
     "description": """
@@ -15,6 +16,7 @@
     'email': "chaidaraji@gmail.com",
     'price': 0,
     'currency': 'USD',
+    'images': ['static/description/icon.png'],
     # 'images': ['static/description/main_background.png'],
     "data": [
         'security/ir.model.access.csv',
@@ -48,5 +50,6 @@
     },
     "auto_install": False,
     "installable": True,
+    "application": True,
     'license': 'LGPL-3',
 }
