@@ -4,12 +4,15 @@ This module is used to record customer deposits and deposit usage during purchas
 
 ## Features
 - **Customer Deposit from POS**
+
 Customers can make deposits Account via the cashier
 
 - **Redemption of customer deposits from POS**
+
 Customers can use the money deposited to pay for what they buy
 
 - **Customer deposit movement history**
+
 We can monitor the use of deposits made by customers
 
 ## Installation
