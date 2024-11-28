@@ -13,6 +13,7 @@
          - Support Point of Sale
     """,
     "website" : "",
+    'license': "AGPL-3",
     'email': "chaidaraji@gmail.com",
     'price': 0,
     'currency': 'USD',
@@ -51,5 +52,4 @@
     "auto_install": False,
     "installable": True,
     "application": True,
-    'license': 'LGPL-3',
 }
