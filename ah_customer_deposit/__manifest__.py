@@ -15,7 +15,7 @@
     "website" : "",
     'license': "AGPL-3",
     'email': "chaidaraji@gmail.com",
-    'price': 60,
+    'price': 70,
     'currency': 'USD',
     'images': ['static/description/icon.png'],
     # 'images': ['static/description/main_background.png'],
